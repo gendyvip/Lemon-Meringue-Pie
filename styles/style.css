@@ -1,0 +1,31 @@
+.gr-lemon {
+  color: rgb(185, 171, 94);
+  text-align: center;
+  text-decoration: underline;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: rgb(223, 223, 223);
+}
+.ingr div,
+.dir div,
+.uCom,
+.links div {
+  color: rgb(185, 171, 94);
+  text-decoration: underline;
+  background-color: rgb(223, 223, 223);
+}
+.search,
+.home {
+  color: rgb(200, 192, 150);
+}
+.uCom1,
+.uCom2 {
+  margin: 5px 20px;
+  background-color: rgba(255, 255, 0, 0.363);
+}
+li span {
+  font-weight: bold;
+}
+.links div {
+  margin-bottom: 10px;
+}
